@@ -1,0 +1,6 @@
+{
+  "name": "حكايتنا - Our Story",
+  "description": "تطبيق رومانسي لحفظ وتوثيق أجمل لحظات الحب بين الحبيبين، مع قفل سري، ألبوم صور وفيديوهات، موسيقى رومانسية، ورسائل غرامية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
